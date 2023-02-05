@@ -587,7 +587,7 @@ $page_nav = array(
 					"> 
 				  	<i></i>Lezley Jacob (offline)
 				</a>
-				<a href="ajax/chat.php" class="btn btn-xs btn-default btn-block sa-chat-learnmore-btn">About the API</a>
+				<a href="?page=chat" class="btn btn-xs btn-default btn-block sa-chat-learnmore-btn">About the API</a>
 			</div>'
 	)
 );
